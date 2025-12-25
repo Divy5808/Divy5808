@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divy Dalwadi</h1>
-<h3 align="center">MSc IT Student | Python • AI/ML • Full-Stack Developer</h3>
+<h3 align="center">MSc IT Student | Python • AI/ML Enthusiast | Backend & Data Focused</h3>
 
 <p align="center">
   <a href="mailto:divydalwadi23@gmail.com">
@@ -12,18 +12,19 @@
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
 - 🎓 **MSc IT Student**
-- 💡 Passionate about **AI/ML, Python, and Full-Stack Development**
-- 📰 Built **AI-Based Multilingual News Summarization System**
-- 🧠 Interested in **Machine Learning, NLP & Data Science**
-- 🌍 Languages supported in projects: **English | Hindi | Gujarati**
-- 📌 Currently working on **real-world internship-level projects**
+- 🐍 Strong focus on **Python Programming**
+- 🤖 Learning & building projects in **AI / Machine Learning / NLP**
+- 📰 Developed **AI-Based Multilingual News Summarization System**
+- 🗄️ Experience with **Databases & Backend Logic**
+- 🌍 Language support in projects: **English | Hindi | Gujarati**
+- 📌 Looking for **Internship / Entry-Level AI–ML Roles**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Skills
 
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -34,20 +35,9 @@
 
 ---
 
-### 🌐 Web & App Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white)
-
----
-
-### ⚙️ Backend & Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+### ⚙️ Backend & Frameworks (Learning & Project Use)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 
 ---
@@ -71,22 +61,21 @@
 
 ---
 
-### 🔧 Tools
+### 🛠️ Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divy5808&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divy5808&theme=neon&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Divy5808&theme=neon&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Divy5808&theme=neon" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divy5808&theme=neon&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divy5808&theme=neon&layout=compact" />
 </p>
 
 ---
@@ -98,4 +87,4 @@
 
 ---
 
-### ⭐ “Building real-world AI & Full-Stack solutions with passion and purpose.”
+### ⭐ *Focused on learning, building, and growing in AI & Python-based development.*
