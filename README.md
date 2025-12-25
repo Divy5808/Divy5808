@@ -71,7 +71,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divy5808&theme=neon&include_all_commits=true&count_private=true" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Divy5808&theme=neon" />
   <br/>
