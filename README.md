@@ -20,7 +20,7 @@
 - 📰 Developed **AI-Based Multilingual News Summarization System**
 - 🗄️ Experience with **Databases & Backend Logic**
 - 🌍 Language support in projects: **English | Hindi | Gujarati**
-- 📌 Looking for **Internship / Entry-Level AI–ML Roles**
+
 
 ---
 
