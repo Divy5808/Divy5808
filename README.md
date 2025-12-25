@@ -74,14 +74,6 @@
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Divy5808&theme=neon" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divy5808&theme=neon&layout=compact" />
-</p>
-
----
-
-## 📈 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Divy5808&icon=10&color=0" />
 </p>
 
 ---
